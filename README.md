@@ -8,17 +8,23 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
+
 💻 Tecnologias utilizadas no projeto
+
 ChatGPT
 Perplexity
 ElevenLabs
 Capcut
+
 ✨ Como foi feito ?
+
 Roteiro gerado via chatgpt
 Audio gerado pela elevenLabs
 Perplexity Para gerar capas
 Capcut para tratar aúdio e adicionar sons de fundo
+
 📚 Materiais
+
 Plataforma DIO
 Notion Template
 Editor de aúdio
